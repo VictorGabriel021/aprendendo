@@ -10,6 +10,8 @@ namespace Aprendendogithub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("SALVE");
+            Console.ReadLine();
         }
     }
 }
